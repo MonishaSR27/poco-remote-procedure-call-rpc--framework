@@ -1,0 +1,10 @@
+{
+  "name": "poco-rpc",
+  "version-string": "1.0",
+  "dependencies": [
+    {
+      "name": "poco",
+      "version>=": "1.12.4"
+    }
+  ]
+}

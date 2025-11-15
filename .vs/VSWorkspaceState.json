@@ -1,0 +1,20 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\rpc_server.dir",
+    "\\build\\rpc_server.dir\\Release",
+    "\\build\\test_serialization.dir",
+    "\\build\\x64",
+    "\\build\\x64\\Release",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\rpc_methods.h",
+  "PreviewInSolutionExplorer": false
+}

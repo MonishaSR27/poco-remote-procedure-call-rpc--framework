@@ -1,0 +1,5 @@
+C:/Users/Lenovo/Desktop/poco-rpc/build/CMakeFiles/rpc_server.dir
+C:/Users/Lenovo/Desktop/poco-rpc/build/CMakeFiles/rpc_client.dir
+C:/Users/Lenovo/Desktop/poco-rpc/build/CMakeFiles/test_serialization.dir
+C:/Users/Lenovo/Desktop/poco-rpc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lenovo/Desktop/poco-rpc/build/CMakeFiles/ZERO_CHECK.dir
