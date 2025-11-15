@@ -10,7 +10,6 @@ Remote method invocation using TCP
 <br>
 JSON request/response
 <br>
-<br>
 Supports:
 <br>
 reverse(text)
@@ -26,7 +25,7 @@ Clean client–server architecture
 <br>
 -How to Build:
 <br>
-Install POCO using vcpkg:
+-Install POCO using vcpkg:
 <br>
 vcpkg install poco
 <br>
@@ -67,13 +66,13 @@ Server replies:
 <br>
 Project Structure
 src/
- ├── client.cpp
- ├── server.cpp
- ├── rpc_dispatcher.cpp
- ├── rpc_dispatcher.h
- ├── serialization.cpp
- ├── serialization.h
- └── test_serialization.cpp
+ ├── client.cpp<br>
+ ├── server.cpp<br>
+ ├── rpc_dispatcher.cpp<br>
+ ├── rpc_dispatcher.h<br>
+ ├── serialization.cpp<br>
+ ├── serialization.h<br>
+ └── test_serialization.cpp<br>
 <br>
 <br>
 -Conclusion:
