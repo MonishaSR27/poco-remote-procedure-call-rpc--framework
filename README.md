@@ -64,8 +64,8 @@ Server replies:
 {"result":"CPR olleH"}
 <br>
 <br>
-Project Structure
-src/
+Project Structure<br>
+src/<br>
  ├── client.cpp<br>
  ├── server.cpp<br>
  ├── rpc_dispatcher.cpp<br>
