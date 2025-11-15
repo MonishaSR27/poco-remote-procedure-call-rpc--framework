@@ -1,13 +1,15 @@
-RPC Framework in C++ using POCO
+**RPC Framework in C++ using POCO**
 <br>
 This project implements a simple Remote Procedure Call (RPC) system using C++ and the POCO libraries.
 A client sends JSON-based requests, and the server processes the request and returns a JSON response.
 <br>
-Features
+<br>
+-Features:
 <br>
 Remote method invocation using TCP
 <br>
 JSON request/response
+<br>
 <br>
 Supports:
 <br>
@@ -21,23 +23,25 @@ Basic error handling
 <br>
 Clean client–server architecture
 <br>
-How to Build
+<br>
+-How to Build:
 <br>
 Install POCO using vcpkg:
 <br>
 vcpkg install poco
 <br>
-
-Configure the project:
+<br>
+-Configure the project:
 <br>
 cmake .. -DCMAKE_BUILD_TYPE=Release
-
 <br>
-Build:
+<br>
+-Build:
 <br>
 cmake --build . --config Release
 <br>
-How to Run
+<br>
+-How to Run:
 <br>
 Start server:
 <br>
@@ -48,7 +52,8 @@ Run client:
 <br>
 ./rpc_client.exe
 <br>
-Example Output
+<br>
+-Example Output:
 <br>
 Client sends:
 <br>
@@ -58,6 +63,7 @@ Client sends:
 Server replies:
 <br>
 {"result":"CPR olleH"}
+<br>
 <br>
 Project Structure
 src/
@@ -69,6 +75,7 @@ src/
  ├── serialization.h
  └── test_serialization.cpp
 <br>
-Summary
+<br>
+-Conclusion:
 <br>
 This project demonstrates how to build a basic RPC framework using C++, handling requests, responses, JSON parsing, and TCP communication using the POCO library.
